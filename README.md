@@ -1,4 +1,4 @@
-# 🚀 SynkaStudio
+# 🚀 SynkaLens
 
 > **Backend de um Manufacturing Execution System (MES) multi-tenant para pequenas e médias indústrias de produção por lote.**
 
